@@ -25,8 +25,9 @@ indices:
         value:  |
           attribute(el, 'content')
       liveUrl:
-        select: main
-        value: path
+        select: head > meta[name="liveurl"]
+        value:  |
+          attribute(el, 'content')
       publishUrl:
         select: head > link[rel="canonical"]
         value: |
