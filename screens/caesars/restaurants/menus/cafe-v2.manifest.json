@@ -9,7 +9,7 @@
     ],
     "defaultProvider": "franklin"
   },
-  "timestamp": 1682428479539,
+  "timestamp": 1683383986517,
   "entries": [
     {
       "path": "/screens/caesars/restaurants/menus/cafe-v2",
@@ -45,7 +45,7 @@
     },
     {
       "path": "/screens/caesars/restaurants/menus/pos-data.json",
-      "timestamp": 1680517465000
+      "timestamp": 1683383863000
     },
     {
       "path": "/scripts/delayed.js",
